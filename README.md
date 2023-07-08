@@ -30,8 +30,8 @@ GYM
 
 ## Como iniciar a aplicação localmente
 
-1. Clone este repositório usando `git clone git@github.com:MatheusVGoncalves/gym.git`
-2. Acesse a pasta do arquivo: `cd gym`<br />
+1. Clone este repositório usando `git clone git@github.com:MatheusVGoncalves/gym-app.git`
+2. Acesse a pasta do arquivo: `cd gym-app`<br />
 
 #### BACK-END
 
@@ -50,4 +50,4 @@ GYM
 
 # DEMONSTRAÇÃO
 
-<video src="https://user-images.githubusercontent.com/100327745/214975618-8f75f886-e764-49ca-997b-a233cac60a33.webm" align="center" width="100%" autoplay loop muted markdown="1"/>
+<video src="https://github.com/MatheusVGoncalves/gym-app/assets/97061067/c39e8ad4-7c4c-4ea5-8182-62cc8b81af33" align="center" width="100%" autoplay loop muted markdown="1" title="demo"/>
